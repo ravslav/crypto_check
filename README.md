@@ -1,1 +1,2 @@
-Prosty program do sprawdzania krypto 
+Prosty program do sprawdzania krypto
+Tylko test
