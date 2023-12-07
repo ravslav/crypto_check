@@ -3,3 +3,5 @@ Tylko test
 jakas naprawa
 hell world i dalej!
 
+Edycja przez githuba
+
