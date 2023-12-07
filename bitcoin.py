@@ -25,37 +25,3 @@ while True:
     except requests.RequestException:
         sys.exit("Błąd")
 
-
-"""
-{
-    "time": {
-        "updated": "Dec 4, 2023 20:04:00 UTC",
-        "updatedISO": "2023-12-04T20:04:00+00:00",
-        "updateduk": "Dec 4, 2023 at 20:04 GMT",
-    },
-    "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org",
-    "chartName": "Bitcoin",
-    "bpi": {
-        "USD": {
-            "code": "USD",
-            "symbol": "&#36;",
-            "rate": "40,763.4025",
-            "description": "United States Dollar",
-            "rate_float": 40763.4025,
-        },
-        "GBP": {
-            "code": "GBP",
-            "symbol": "&pound;",
-            "rate": "34,061.5730",
-            "description": "British Pound Sterling",
-            "rate_float": 34061.573,
-        },
-        "EUR": {
-            "code": "EUR",
-            "symbol": "&euro;",
-            "rate": "39,709.5055",
-            "description": "Euro",
-            "rate_float": 39709.5055,
-        },
-    },
-}"""
