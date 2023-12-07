@@ -23,5 +23,4 @@ while True:
             print(f"${amount:,.4f}")
             break
     except requests.RequestException:
-        sys.exit("Błąd")
-
+        sys.exit("Error")
