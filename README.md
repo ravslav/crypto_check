@@ -5,3 +5,4 @@ hell world i dalej!
 
 Edycja przez githuba
 
+kolejna do testowania pull
